@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zadiu.zadiu" />
 <div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&pause=1000&color=2C07F7&width=435&lines=Coding+%3C3" alt="Typing SVG" /></a>
+
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
