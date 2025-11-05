@@ -33,7 +33,7 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 
 - <h4> linkedin </h4>
-<a href="https://www.linkedin.com/in/ignacio-rau-483bb9208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ignacio-rau-483bb9208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </br></br>
   
 <div align="right">
