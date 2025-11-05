@@ -8,7 +8,7 @@
 <h2> / about me / </h2>
   
 - **Full stack developer in progress, currently focusing more on backend.**
-- I'm a **student** working his way around things.
+- I'm a **student** working his way around programming.
   
 <h2> / current skills / </h2>
   
